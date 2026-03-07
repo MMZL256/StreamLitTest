@@ -9,7 +9,7 @@ source = pd.DataFrame({
   'f(x)': np.sin(x / 5)
 })
 
-
+st.set_page_config(page_title="Café des quatre", page_icon="🍵", layout="wide")
 st.title("Le café des quatre")
 st.write("Voici un diagramme d'une vague sinus quelconque pour absolument aucune raison.") 
 st.altair_chart(alt.Chart(source).mark_line().encode(
@@ -67,6 +67,7 @@ with st.expander("Liste de néologismes"):
 
     
     """
+
 
 
 
