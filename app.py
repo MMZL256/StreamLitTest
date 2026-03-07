@@ -41,7 +41,9 @@ with st.expander("Liste de néologismes"):
     st.header("Liste de néologismes communautaires:")
     """
     **:blue-background[1. Cunidé(e)]**: Aucune idée.
+    
     Étymologie: Fusion des mots Aucune et Idée.
+    
     a) Lorsqu'on le dit juste comme ça c'est pour désigner qu'on a aucune idée sur quelque chose.
     Ex. -Tsais-tu ce qu'est l'identité d'euler? -cunidée.
     
@@ -52,16 +54,20 @@ with st.expander("Liste de néologismes"):
 
     
     **:blue-background[2. Champelaïllon]**: Synonyme de champion.
+    
     Étymologie: Provient d'un certain prof de science surqualifié
 
 
     **:blue-background[3. Tachybuler]**: Marcher de manière étrangement rapide.
+    
     Étymologie: (grec) Tachy-, vite. + (latin) ambula, marcher.
+    
     Note: Il n'est pas orthodoxe de mélanger les racines grecques et latines mais on s'en balec absolument.
 
 
     
     """
+
 
 
 
