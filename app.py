@@ -37,7 +37,7 @@ with st.expander("Menu du café des quatre"):
     """
 with st.expander("Liste de proverbes"):
     st.header("Liste de proverbes: À ajouter")
-with st.expander("Liste de néologismes)
+with st.expander("Liste de néologismes"):
     st.header("Liste de néologismes communautaires:")
     """
     **1. Cunidé(e)**: Aucune idée.
@@ -62,6 +62,7 @@ with st.expander("Liste de néologismes)
 
     
     """
+
 
 
 
